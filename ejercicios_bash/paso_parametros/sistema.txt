@@ -1,0 +1,5 @@
+Kernel: 5.15.0-139-generic
+SO: Linux
+Arquitectura: x86_64
+Fecha: mar 26 may 2026 14:07:11 CEST
+Plataforma soportada
