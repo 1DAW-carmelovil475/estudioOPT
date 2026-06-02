@@ -1,0 +1,6 @@
+2024-01-15 08:09:55 CRITICAL Fallo en el sistema de autenticación
+2024-01-15 08:17:02 FATAL Corrupción detectada en tabla usuarios
+2024-01-15 08:22:17 CRITICAL Memoria RAM al 95%, riesgo de caída
+2024-01-15 08:27:59 FATAL Sistema de pagos no disponible
+2024-01-15 08:31:44 CRITICAL Base de datos principal caída
+2024-01-15 08:39:05 FATAL Pérdida de conexión con servidor primario
