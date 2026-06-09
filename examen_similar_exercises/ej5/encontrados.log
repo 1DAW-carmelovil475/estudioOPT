@@ -1,0 +1,10 @@
+-----Estas son las primeras 3-----
+2024-01-15 08:02:45 ERROR No se pudo conectar al servicio externo
+2024-01-15 08:07:14 ERROR Timeout en la petición al servidor
+2024-01-15 08:11:03 ERROR Archivo de configuración no encontrado
+-----Estas son las últimas 3-----
+2024-01-15 08:29:12 ERROR Respuesta inesperada del servidor SMTP
+2024-01-15 08:33:22 ERROR No se puede resolver el nombre de host
+2024-01-15 08:36:10 ERROR Token de sesión inválido
+-----Estas son las ocurrencias-----
+9
